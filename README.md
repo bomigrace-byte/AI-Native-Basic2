@@ -41,10 +41,10 @@
 
 | 역할 | 메인 도구 | 선택 이유 | 대체 도구(대비용) |
 |------|-----------|-----------|-------------------|
-| 이미지 생성 | DALL-E 3 | 무료, 초보자 최적 | Gemini |
-| 비디오 생성/변환 | Pollo AI | 무료, 초보자 최적 | Hailuo AI |
-| 오디오 생성 | Eleven Labs | 무료, 내레이션에 최적 | Clova AI |
-| BGM 생성 | Suno AI | 무료, AI 음악 최강자 | Udio |
+| 이미지 생성 | DALL-E 3 | 비용 우선 고려(무료), 초보자 최적 | Gemini(대화형 AI이므로 품질이 떨어질 수 있음) |
+| 비디오 생성/변환 | Pollo AI | 비용 우선 고려(무료), 초보자 최적 | Hailuo AI(초반에 지급해주는 크레딧 외에는 유료 결제해야함) |
+| 오디오 생성 | Eleven Labs | 비용 우선 고려(무료), 내레이션에 최적 | Clova AI | (목소리 스타일이 많이 없음)
+| BGM 생성 | Suno AI | 무료, AI 음악 최강자 | Udio | (인터페이스가 복잡하고, 사용하기 어려움)
 
 > ✂️ **판정 기준** → 이미지·비디오·오디오 3종이 모두 있는가? 대체 도구가 각 1개씩 있는가?
 > 💡 대기열/플랜 제한으로 막힐 수 있으니 **도구명만이라도** 미리 적어두세요.
@@ -66,9 +66,24 @@
    - 비디오 생성 : Pollo AI (이미지를 짧은 영상으로 변환)
    - 오디오 생성 : Eleven Labs (내레이션) + Pixabay (Sound Effects - City ambient night)
    - 편집 : Capcut - 영상에 오디오 레이어 배치
-- 입력 프롬프트(원문): 길이가 너무 길기 때문에 원본 기획문서 확인할 것
-- 출력 결과 요약:      ✍️ (한 줄)
-- 결과 파일명/링크:    ✍️ (예: scene01_keyvisual.png)
+- 입력 프롬프트(원문): 
+A tired office worker sitting alone by a large window at dusk,
+seen from behind as a silhouette,
+slouched shoulders, dim laptop glow on the desk,
+city skyline outside the window in deep blue dusk light,
+stacked papers and a cold coffee cup on the desk,
+cinematic film photography style,
+desaturated cool blue and grey tones,
+dim and fading light, no golden sunset,
+35mm film grain texture, soft vignette,
+heavy and melancholic atmosphere,
+no face visible,
+★cinematic widescreen format 16:9 aspect ratio,
+★wide establishing shot,
+★horizontal composition optimized for 16:9 frame,
+★letterbox cinematic framing
+- 출력 결과 요약: "도심 야경을 배경으로 홀로 노트북 앞에 앉은 실루엣, 쌓인 서류와 커피잔이 말해주는 고독한 야근의 순간"
+- 결과 파일명/링크: Scene01_keyvisual.png/ Scene01(Pollo)_motion.mp4/ Scene01_narration(Eleven Labs).mp3/ Scene01_soundeffect-cityabientnight(Pixabay).mp3
 ```
 
 ```
@@ -82,7 +97,48 @@
    - 비디오 생성 : Pollo AI (이미지를 짧은 영상으로 변환)
    - 오디오 생성 : Eleven Labs(내레이션) + Pixabay(Sound Effects - Bird chipping, soft wind)
    - 편집 : Capcut - 영상에 오디오 레이어 배치
-- 입력 프롬프트(원문): 길이가 너무 길기 때문에 원본 기획문서 확인할 것
+- 입력 프롬프트(원문):
+Close-up of two hands gently holding a smartphone,
+phone screen facing LEFT side of frame, hands angled toward left,
+SEREN meditation app displayed on screen,
+
+★ app UI background shows a serene nature scene inside the screen,
+★ misty forest with tall pine trees reflected on still water,
+★ calm lake surface with gentle ripples surrounding the breathing circle,
+★ trees and water reflection visible around the glowing circle,
+★ soft fog and mist between the trees on screen background,
+
+app UI featuring deep teal and sage green tones,
+soft glowing breathing circle in the center of screen,
+glowing white-teal breathing circle with "Breathe In" text and countdown timer,
+gentle gradient from deep ocean teal to soft forest sage,
+nature scene of still water and misty pine forest as app background,
+bottom navigation bar with Sleep, Focus, Breathe icons,
+SEREN logo and tagline visible at top of screen,
+
+★ screen brightness is ENHANCED and MORE LUMINOUS than ambient light,
+★ phone screen emits a visible soft teal-green glow onto hands,
+★ teal-green screen light softly reflects and spills onto fingers and palms,
+★ subtle teal light cast visible on skin texture of hands,
+★ screen is the brightest element in the scene,
+
+soft teal-green light from screen illuminating hands clearly,
+hands are well-lit by the phone screen glow,
+background is softly blurred dark room,
+warm dim candlelight in background,
+cinematic photography style,
+shallow depth of field,
+calm, healing, grounded atmosphere,
+no purple, no lavender, no bright neon colors,
+35mm film grain, gentle vignette,
+natural and organic color palette,
+screen brightness is the main light source,
+crisp UI details visible on screen,
+
+★ cinematic widescreen format 16:9 aspect ratio,
+★ horizontal composition optimized for 16:9 frame,
+★ letterbox cinematic framing
+
 - 출력 결과 요약: "촛불이 켜진 어두운 공간에서 명상 앱 화면의 청록빛을 두 손으로 감싸 쥔 채, 숨 고르기 하나에 온전히 집중하는 고요한 위로의 순간"
 - 결과 파일명/링크: Scene02_keyvisual.png/ Scene02(Pollo)_motion.mp4/ Scene02_narration(Eleven Labs).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
 ```
@@ -98,7 +154,48 @@
    - 비디오 생성 : Hailuo AI (이미지를 짧은 영상으로 변환)
    - 오디오 생성 : Eleven Labs (내레이션) + Suno AI (BGM)
    - 편집 : Capcut - 영상에 오디오 레이어 배치
-- 입력 프롬프트(원문): 길이가 너무 길기 때문에 원본 기획문서 확인할 것
+- 입력 프롬프트(원문):
+Close-up of two hands gently holding a smartphone,
+phone screen facing LEFT side of frame, hands angled toward left,
+SEREN meditation app displayed on screen,
+
+★ app UI background shows a serene nature scene inside the screen,
+★ misty forest with tall pine trees reflected on still water,
+★ calm lake surface with gentle ripples surrounding the breathing circle,
+★ trees and water reflection visible around the glowing circle,
+★ soft fog and mist between the trees on screen background,
+
+app UI featuring deep teal and sage green tones,
+soft glowing breathing circle in the center of screen,
+glowing white-teal breathing circle with "Breathe In" text and countdown timer,
+gentle gradient from deep ocean teal to soft forest sage,
+nature scene of still water and misty pine forest as app background,
+bottom navigation bar with Sleep, Focus, Breathe icons,
+SEREN logo and tagline visible at top of screen,
+
+★ screen brightness is ENHANCED and MORE LUMINOUS than ambient light,
+★ phone screen emits a visible soft teal-green glow onto hands,
+★ teal-green screen light softly reflects and spills onto fingers and palms,
+★ subtle teal light cast visible on skin texture of hands,
+★ screen is the brightest element in the scene,
+
+soft teal-green light from screen illuminating hands clearly,
+hands are well-lit by the phone screen glow,
+background is softly blurred dark room,
+warm dim candlelight in background,
+cinematic photography style,
+shallow depth of field,
+calm, healing, grounded atmosphere,
+no purple, no lavender, no bright neon colors,
+35mm film grain, gentle vignette,
+natural and organic color palette,
+screen brightness is the main light source,
+crisp UI details visible on screen,
+
+★ cinematic widescreen format 16:9 aspect ratio,
+★ horizontal composition optimized for 16:9 frame,
+★ letterbox cinematic framing
+
 - 출력 결과 요약: "눈을 감은 채 햇살을 온몸으로 받아들이는 미소, 초록빛 보케와 황금빛 빛 입자 속에서 피어나는 평온한 해방감"
 - 결과 파일명/링크: Scene03_keyvisual.png/ Scene03(Hailuo)_motion.mp4/ Scene03_narration(Eleven Labs).mp3/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
 ```
@@ -113,7 +210,52 @@
    - 이미지 생성 : Gemini (키 비주얼 생성)
    - 비디오 생성 : Google Flow (이미지를 짧은 영상으로 변환)
    - 편집 : Capcut - 영상에 오디오 레이어 배치
-- 입력 프롬프트(원문): 길이가 너무 길기 때문에 원본 기획문서 확인할 것
+- 입력 프롬프트(원문):
+A delicate and soft-featured Korean woman in her mid 20s,
+slender fine facial features, soft jawline, gentle face,
+porcelain-like smooth skin with natural warmth,
+eyes gently closed with long soft lashes,
+subtle peaceful smile, lips softly curved upward,
+expression of pure tranquility and quiet bliss,
+youthful and ethereal beauty,
+hair softly flowing down, loose and natural,
+
+SOFT warm golden sunlight gently touching her face,
+NOT overexposed, NOT blown out,
+sunlight is gentle and diffused, NOT harsh or intense,
+face evenly and softly lit with warm golden glow,
+delicate sun rays softly landing on cheeks and forehead,
+skin luminous, translucent and porcelain-like under soft light,
+
+subtle golden bokeh sparkles in the air,
+magical light shimmer effect around her,
+soft glowing halo of light around her silhouette,
+dreamy sparkling atmosphere like morning dew catching light,
+ethereal light flares softly dancing near her face,
+
+background bokeh EXACTLY 50% warm golden yellow
+AND 50% soft sage green,
+sage green bokeh circles clearly visible
+on the RIGHT side of background,
+golden bokeh on LEFT side near window,
+lush green nature visible through window,
+background bright and airy,
+
+overall mood soft, healing, luminous and magical,
+feeling of gentle morning light and inner renewal,
+
+shallow depth of field,
+wearing soft cream or white top,
+cinematic film photography style,
+healing and renewal mood,
+ultra realistic, 8K,
+
+★ cinematic widescreen format 16:9 aspect ratio,
+★ horizontal composition optimized for 16:9 frame,
+★ letterbox cinematic framing,
+★ subject positioned slightly left of center,
+★ bokeh background fills wide horizontal frame naturally
+
 - 출력 결과 요약: "깊은 심해빛 어둠 속에서 은은하게 빛나는 원형 오라와 함께, 'SEREN'이라는 이름이 조용히 당신을 자신에게로 되돌려 보내는 초대"
 - 결과 파일명/링크: Scene04_keyvisual.png/ Scene04(Google Flow)_motion.mp4/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
 ```
@@ -178,9 +320,14 @@
 
 영상 생성은 크레딧 소모가 큽니다. **이미지 단계에서 스토리보드를 확정한 뒤** 영상 변환하세요.
 
-- [ ] 씬 수 줄이고 메시지 밀도 높이기 (예: 6씬 → 4씬)
+- [✔️] 씬 수 줄이고 메시지 밀도 높이기 : 10초 기준 4씬
+	*씬축소를 위한 유지씬 : 각 씬의 키비주얼 및 핵심 메시지 선정하여 유지
 - [✔️] 정지 이미지 + 짧은 모션(패닝/줌/루프) 중심 구성
-- [✔️] 동일 스타일 레퍼런스 고정으로 재생성 횟수 줄이기
+	*T2I와 I2V의 차이점 및 선택 기준
+	-Text to Image : 텍스트 설명으로 원하는 이미지를 생성
+	- Image to Video : 레퍼런스 이미지로 원하는 영상을 생성
+	- 선택 기준 : 아무런 레퍼런스가 없을 경우 T2I, 키비주얼 이미지가 있을 경우 정교한 영상제작을 위해 I2V 
+- [✔️] 동일 스타일 레퍼런스 고정으로 재생성 횟수 줄이기: 재생성 횟수 씬당 이미지 5회, 영상 3회 이하
 
 > ✂️ **판정 기준** → 위 3개 중 **최소 1개** 전략을 선택·적용했는가?
 
@@ -214,7 +361,7 @@
 ```
 - 파일명: SEREN.mp4
 - 길이: 10초
-- 해상도: 720p
+- 해상도: 720p (권장 720p 이상) / 해상도,색감 불일치 시 : 1. 프롬프트에 색감, 해상도 명시 3. 같은 생성모델 이용
 - 프레임레이트: 25fps
 - 코덱: H.264 / AAC 
 ```
