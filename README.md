@@ -417,14 +417,16 @@ https://youtu.be/9T7et_2MbNI
 - <img width="1672" height="941" alt="Scene00_ad_keyvisual" src="https://github.com/user-attachments/assets/ef8617ab-6935-409d-8226-d68aacdf92f6" />
 
 - [✔️ ] 동일 스토리보드, 다른 도구 재제작 : adobe firefly, google flow로 Scene02,04 재제작
+  
 https://github.com/user-attachments/assets/97934f87-34e1-4e0b-9b74-7b2d65c73409
 
 
 https://github.com/user-attachments/assets/623efe32-03e7-42e3-a045-e41b52590d8a
 
 - [✔️] 화면 비율 버전 2개 이상 : 16:9 / 9:16 / 1:1
-https://youtube.com/shorts/bdokhRAkAXU
+  
+🎬 [영상 보러가기](https://youtube.com/shorts/bdokhRAkAXU)
 
-https://youtube.com/shorts/CLpjZqjCyEI
+🎬 [영상 보러가기](https://youtube.com/shorts/CLpjZqjCyEI)
 
 
