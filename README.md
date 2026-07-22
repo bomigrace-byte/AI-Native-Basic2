@@ -86,7 +86,7 @@ no face visible,
 - 결과 파일명/링크: Scene01_keyvisual.png/ Scene01(Pollo)_motion.mp4/ Scene01_narration(Eleven Labs).mp3/ Scene01_soundeffect-cityabientnight(Pixabay).mp3
 
 
-https://github.com/user-attachments/assets/ded95063-e21b-4c14-aec5-f24ed2e0f321
+<video src="[영상파일링크](https://github.com/user-attachments/assets/ded95063-e21b-4c14-aec5-f24ed2e0f321)" controls width="100%"></video>
 
 
 
@@ -148,8 +148,7 @@ crisp UI details visible on screen,
 - 출력 결과 요약: "촛불이 켜진 어두운 공간에서 명상 앱 화면의 청록빛을 두 손으로 감싸 쥔 채, 숨 고르기 하나에 온전히 집중하는 고요한 위로의 순간"
 - 결과 파일명/링크: Scene02_keyvisual.png/ Scene02(Pollo)_motion.mp4/ Scene02_narration(Eleven Labs).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
 
-
-https://github.com/user-attachments/assets/943f6853-51af-4970-8531-74f8b644ee92
+<video src="[영상파일링크](https://github.com/user-attachments/assets/943f6853-51af-4970-8531-74f8b644ee92)" controls width="100%"></video>
 
 
 ```
@@ -210,8 +209,7 @@ crisp UI details visible on screen,
 - 출력 결과 요약: "눈을 감은 채 햇살을 온몸으로 받아들이는 미소, 초록빛 보케와 황금빛 빛 입자 속에서 피어나는 평온한 해방감"
 - 결과 파일명/링크: Scene03_keyvisual.png/ Scene03(Hailuo)_motion.mp4/ Scene03_narration(Eleven Labs).mp3/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
 
-
-https://github.com/user-attachments/assets/77d8584b-ea2a-4629-8432-f498c5cb1671
+<video src="[영상파일링크](https://github.com/user-attachments/assets/77d8584b-ea2a-4629-8432-f498c5cb1671)" controls width="100%"></video>
 
 
 ```
@@ -275,8 +273,8 @@ ultra realistic, 8K,
 - 출력 결과 요약: "깊은 심해빛 어둠 속에서 은은하게 빛나는 원형 오라와 함께, 'SEREN'이라는 이름이 조용히 당신을 자신에게로 되돌려 보내는 초대"
 - 결과 파일명/링크: Scene04_keyvisual.png/ Scene04(Google Flow)_motion.mp4/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
 
+<video src="[영상파일링크](https://github.com/user-attachments/assets/93496fe5-bd7c-40c4-b770-e2a93187ef32)" controls width="100%"></video>
 
-https://github.com/user-attachments/assets/93496fe5-bd7c-40c4-b770-e2a93187ef32
 
 
 ```
@@ -425,8 +423,8 @@ https://github.com/user-attachments/assets/623efe32-03e7-42e3-a045-e41b52590d8a
 
 - [✔️] 화면 비율 버전 2개 이상 : 16:9 / 9:16 / 1:1
   
-🎬 [영상 보러가기](https://youtube.com/shorts/bdokhRAkAXU)
+🎬 [9:16 숏폼,릴스 비율](https://youtube.com/shorts/bdokhRAkAXU)
 
-🎬 [영상 보러가기](https://youtube.com/shorts/CLpjZqjCyEI)
+🎬 [1:1 피드 비율](https://youtube.com/shorts/CLpjZqjCyEI)
 
 
