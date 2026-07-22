@@ -84,11 +84,7 @@ no face visible,
 ★letterbox cinematic framing
 - 출력 결과 요약: "도심 야경을 배경으로 홀로 노트북 앞에 앉은 실루엣, 쌓인 서류와 커피잔이 말해주는 고독한 야근의 순간"
 - 결과 파일명/링크: Scene01_keyvisual.png/ Scene01(Pollo)_motion.mp4/ Scene01_narration(Eleven Labs).mp3/ Scene01_soundeffect-cityabientnight(Pixabay).mp3
-
-
-<video src="[영상파일링크](https://github.com/user-attachments/assets/ded95063-e21b-4c14-aec5-f24ed2e0f321)" controls width="100%"></video>
-
-
+<img width="1672" height="941" alt="Scene01_keyvisual" src="https://github.com/user-attachments/assets/042ca0f7-fabd-4d85-ad21-6e9aee068e9f" />
 
 ```
 
@@ -147,9 +143,7 @@ crisp UI details visible on screen,
 
 - 출력 결과 요약: "촛불이 켜진 어두운 공간에서 명상 앱 화면의 청록빛을 두 손으로 감싸 쥔 채, 숨 고르기 하나에 온전히 집중하는 고요한 위로의 순간"
 - 결과 파일명/링크: Scene02_keyvisual.png/ Scene02(Pollo)_motion.mp4/ Scene02_narration(Eleven Labs).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
-
-<video src="[영상파일링크](https://github.com/user-attachments/assets/943f6853-51af-4970-8531-74f8b644ee92)" controls width="100%"></video>
-
+<img width="1672" height="941" alt="Scene02_keyvisual" src="https://github.com/user-attachments/assets/ba25f733-ccfd-470f-84a2-a266849aaf41" />
 
 ```
 
@@ -208,9 +202,7 @@ crisp UI details visible on screen,
 
 - 출력 결과 요약: "눈을 감은 채 햇살을 온몸으로 받아들이는 미소, 초록빛 보케와 황금빛 빛 입자 속에서 피어나는 평온한 해방감"
 - 결과 파일명/링크: Scene03_keyvisual.png/ Scene03(Hailuo)_motion.mp4/ Scene03_narration(Eleven Labs).mp3/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
-
-<video src="[영상파일링크](https://github.com/user-attachments/assets/77d8584b-ea2a-4629-8432-f498c5cb1671)" controls width="100%"></video>
-
+<img width="1672" height="941" alt="Scene03_keyvisual" src="https://github.com/user-attachments/assets/9487badb-4c0f-44db-8461-f671f4e7c193" />
 
 ```
 
@@ -272,10 +264,7 @@ ultra realistic, 8K,
 
 - 출력 결과 요약: "깊은 심해빛 어둠 속에서 은은하게 빛나는 원형 오라와 함께, 'SEREN'이라는 이름이 조용히 당신을 자신에게로 되돌려 보내는 초대"
 - 결과 파일명/링크: Scene04_keyvisual.png/ Scene04(Google Flow)_motion.mp4/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
-
-<video src="[영상파일링크](https://github.com/user-attachments/assets/93496fe5-bd7c-40c4-b770-e2a93187ef32)" controls width="100%"></video>
-
-
+<img width="1376" height="768" alt="Scene04_keyvisual" src="https://github.com/user-attachments/assets/81731331-ceb5-4f87-b90e-6750ed516a2a" />
 
 ```
 
@@ -378,13 +367,12 @@ ultra realistic, 8K,
 ## STEP 8. 최종 영상 스펙 확인
 
 ```
-https://youtu.be/9T7et_2MbNI
-
 - 파일명: SEREN.mp4
 - 길이: 10초
 - 해상도: 720p (권장 720p 이상) / 해상도,색감 불일치 시 : 1. 프롬프트에 색감, 해상도 명시 3. 같은 생성모델 이용
 - 프레임레이트: 25fps
 - 코덱: H.264 / AAC
+*10MB 제한으로 github 별도로 업로드 하였습니다.
 ```
 
 > ✂️ **판정 기준** → **10초 이내**인가? 720p 이상인가? AI 시각+청각 요소가 모두 있는가?
@@ -412,7 +400,8 @@ https://youtu.be/9T7et_2MbNI
 
 **🎁 보너스 (선택)**
 - [✔️ ] 립싱크 적용 : 기존 영상앞에 "하, 지친다"라고 말하는 여자 모습이 담긴 씬 추가
-- <img width="1672" height="941" alt="Scene00_ad_keyvisual" src="https://github.com/user-attachments/assets/ef8617ab-6935-409d-8226-d68aacdf92f6" />
+<img width="1672" height="941" alt="Scene00_ad_keyvisual" src="https://github.com/user-attachments/assets/ef8617ab-6935-409d-8226-d68aacdf92f6" />
+*통합본 영상은 10MB 제한으로 github 별도로 업로드 하였습니다.
 
 - [✔️ ] 동일 스토리보드, 다른 도구 재제작 : adobe firefly, google flow로 Scene02,04 재제작
   
@@ -422,9 +411,6 @@ https://github.com/user-attachments/assets/97934f87-34e1-4e0b-9b74-7b2d65c73409
 https://github.com/user-attachments/assets/623efe32-03e7-42e3-a045-e41b52590d8a
 
 - [✔️] 화면 비율 버전 2개 이상 : 16:9 / 9:16 / 1:1
-  
-🎬 [9:16 숏폼,릴스 비율](https://youtube.com/shorts/bdokhRAkAXU)
-
-🎬 [1:1 피드 비율](https://youtube.com/shorts/CLpjZqjCyEI)
+*10MB 제한으로 github 별도로 업로드 하였습니다.
 
 
