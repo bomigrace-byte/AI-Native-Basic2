@@ -24,6 +24,10 @@
 
 ```
 - 브랜드명: SEREN
+
+https://github.com/user-attachments/assets/469d3094-468b-4207-b28b-662a207b41c6
+
+
 - 타겟: 20~30대 번아웃 직장인
 - 톤앤매너: 미니멀, 자연친화적, 시네마틱, 따뜻한 고요함
 - USP(차별점): "일상의 틈새에서 찾는 단 한 번의 호흡" — 복잡한 세상 속 가장 쉬운 회복 루틴
@@ -84,6 +88,7 @@ no face visible,
 ★letterbox cinematic framing
 - 출력 결과 요약: "도심 야경을 배경으로 홀로 노트북 앞에 앉은 실루엣, 쌓인 서류와 커피잔이 말해주는 고독한 야근의 순간"
 - 결과 파일명/링크: Scene01_keyvisual.png/ Scene01(Pollo)_motion.mp4/ Scene01_narration(Eleven Labs).mp3/ Scene01_soundeffect-cityabientnight(Pixabay).mp3
+https://github.com/user-attachments/assets/b1031fc1-e895-4ea5-b863-4c140074bb42
 ```
 
 ```
@@ -141,6 +146,7 @@ crisp UI details visible on screen,
 
 - 출력 결과 요약: "촛불이 켜진 어두운 공간에서 명상 앱 화면의 청록빛을 두 손으로 감싸 쥔 채, 숨 고르기 하나에 온전히 집중하는 고요한 위로의 순간"
 - 결과 파일명/링크: Scene02_keyvisual.png/ Scene02(Pollo)_motion.mp4/ Scene02_narration(Eleven Labs).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
+https://github.com/user-attachments/assets/0c486d93-a157-4c63-a10d-a3c150d49169
 ```
 
 ```
@@ -198,6 +204,7 @@ crisp UI details visible on screen,
 
 - 출력 결과 요약: "눈을 감은 채 햇살을 온몸으로 받아들이는 미소, 초록빛 보케와 황금빛 빛 입자 속에서 피어나는 평온한 해방감"
 - 결과 파일명/링크: Scene03_keyvisual.png/ Scene03(Hailuo)_motion.mp4/ Scene03_narration(Eleven Labs).mp3/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
+https://github.com/user-attachments/assets/8894f26c-a04f-473a-acf2-385362a8b59b
 ```
 
 ```
@@ -258,6 +265,7 @@ ultra realistic, 8K,
 
 - 출력 결과 요약: "깊은 심해빛 어둠 속에서 은은하게 빛나는 원형 오라와 함께, 'SEREN'이라는 이름이 조용히 당신을 자신에게로 되돌려 보내는 초대"
 - 결과 파일명/링크: Scene04_keyvisual.png/ Scene04(Google Flow)_motion.mp4/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
+https://github.com/user-attachments/assets/e4d8bbd4-496a-4114-a681-7588f4889a8d
 ```
 
 
@@ -363,7 +371,7 @@ ultra realistic, 8K,
 - 길이: 10초
 - 해상도: 720p (권장 720p 이상) / 해상도,색감 불일치 시 : 1. 프롬프트에 색감, 해상도 명시 3. 같은 생성모델 이용
 - 프레임레이트: 25fps
-- 코덱: H.264 / AAC 
+- 코덱: H.264 / AAC
 ```
 
 > ✂️ **판정 기준** → **10초 이내**인가? 720p 이상인가? AI 시각+청각 요소가 모두 있는가?
@@ -390,6 +398,12 @@ ultra realistic, 8K,
 - [ ] 편집 도구로 핵심 비주얼 제작 ❌
 
 **🎁 보너스 (선택)**
-- [ ] 립싱크 적용
-- [ ] 동일 스토리보드, 다른 도구 재제작
-- [ ] 화면 비율 버전 2개 이상 (16:9 / 9:16 / 1:1)
+- [✔️ ] 립싱크 적용 : 기존 영상앞에 "하, 지친다"라고 말하는 여자 모습이 담긴 씬 추가
+  <img width="1672" height="941" alt="Scene00_ad_keyvisual" src="https://github.com/user-attachments/assets/ca976140-65a9-4027-ab81-22360b91a489" />
+- [✔️ ] 동일 스토리보드, 다른 도구 재제작 : adobe firefly, google flow로 Scene02,04 재제작
+  https://github.com/user-attachments/assets/d5ff7b11-2058-451f-9006-ee475f09fa65
+  https://github.com/user-attachments/assets/ec99e188-fd30-4666-9946-6fefbc374005
+- [✔️] 화면 비율 버전 2개 이상 : 16:9 / 9:16 / 1:1
+  *파일 크기가 커서 github에 별도로 업로드하였습니다. 
+
+
