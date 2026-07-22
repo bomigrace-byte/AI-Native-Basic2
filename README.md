@@ -47,7 +47,9 @@
 | BGM 생성 | Suno AI | 무료, AI 음악 최강자 | Udio | (인터페이스가 복잡하고, 사용하기 어려움)
 
 > ✂️ **판정 기준** → 이미지·비디오·오디오 3종이 모두 있는가? 대체 도구가 각 1개씩 있는가?
-> 💡 대기열/플랜 제한으로 막힐 수 있으니 **도구명만이라도** 미리 적어두세요.
+
+https://github.com/user-attachments/assets/b9744467-e8f6-4897-bc74-23f65f32dd25
+
 
 ---
 
@@ -84,9 +86,12 @@ no face visible,
 ★letterbox cinematic framing
 - 출력 결과 요약: "도심 야경을 배경으로 홀로 노트북 앞에 앉은 실루엣, 쌓인 서류와 커피잔이 말해주는 고독한 야근의 순간"
 - 결과 파일명/링크: Scene01_keyvisual.png/ Scene01(Pollo)_motion.mp4/ Scene01_narration(Eleven Labs).mp3/ Scene01_soundeffect-cityabientnight(Pixabay).mp3
+```
 <img width="1672" height="941" alt="Scene01_keyvisual" src="https://github.com/user-attachments/assets/042ca0f7-fabd-4d85-ad21-6e9aee068e9f" />
 
-```
+https://github.com/user-attachments/assets/0d491015-7751-4530-b004-8eda5dc2392a
+
+
 
 ```
 ## 씬 [2]
@@ -143,9 +148,8 @@ crisp UI details visible on screen,
 
 - 출력 결과 요약: "촛불이 켜진 어두운 공간에서 명상 앱 화면의 청록빛을 두 손으로 감싸 쥔 채, 숨 고르기 하나에 온전히 집중하는 고요한 위로의 순간"
 - 결과 파일명/링크: Scene02_keyvisual.png/ Scene02(Pollo)_motion.mp4/ Scene02_narration(Eleven Labs).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
-<img width="1672" height="941" alt="Scene02_keyvisual" src="https://github.com/user-attachments/assets/ba25f733-ccfd-470f-84a2-a266849aaf41" />
-
 ```
+<img width="1672" height="941" alt="Scene02_keyvisual" src="https://github.com/user-attachments/assets/ba25f733-ccfd-470f-84a2-a266849aaf41" />
 
 ```
 ## 씬 [3]
@@ -202,9 +206,8 @@ crisp UI details visible on screen,
 
 - 출력 결과 요약: "눈을 감은 채 햇살을 온몸으로 받아들이는 미소, 초록빛 보케와 황금빛 빛 입자 속에서 피어나는 평온한 해방감"
 - 결과 파일명/링크: Scene03_keyvisual.png/ Scene03(Hailuo)_motion.mp4/ Scene03_narration(Eleven Labs).mp3/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
-<img width="1672" height="941" alt="Scene03_keyvisual" src="https://github.com/user-attachments/assets/9487badb-4c0f-44db-8461-f671f4e7c193" />
-
 ```
+<img width="1672" height="941" alt="Scene03_keyvisual" src="https://github.com/user-attachments/assets/9487badb-4c0f-44db-8461-f671f4e7c193" />
 
 ```
 ## 씬 [4]
@@ -264,9 +267,8 @@ ultra realistic, 8K,
 
 - 출력 결과 요약: "깊은 심해빛 어둠 속에서 은은하게 빛나는 원형 오라와 함께, 'SEREN'이라는 이름이 조용히 당신을 자신에게로 되돌려 보내는 초대"
 - 결과 파일명/링크: Scene04_keyvisual.png/ Scene04(Google Flow)_motion.mp4/ Scene03,04_bgm-Piano(Suno).mp3/ Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3/ Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
-<img width="1376" height="768" alt="Scene04_keyvisual" src="https://github.com/user-attachments/assets/81731331-ceb5-4f87-b90e-6750ed516a2a" />
-
 ```
+<img width="1376" height="768" alt="Scene04_keyvisual" src="https://github.com/user-attachments/assets/81731331-ceb5-4f87-b90e-6750ed516a2a" />
 
 
 > ✂️ **판정 기준** → 모든 씬이 **8개 필드**를 다 채웠는가? 파일명 규칙이 **일관**적인가?
@@ -403,6 +405,7 @@ ultra realistic, 8K,
 <img width="1672" height="941" alt="Scene00_ad_keyvisual" src="https://github.com/user-attachments/assets/ef8617ab-6935-409d-8226-d68aacdf92f6" />
 *통합본 영상은 10MB 제한으로 github 별도로 업로드 하였습니다.
 
+
 - [✔️ ] 동일 스토리보드, 다른 도구 재제작 : adobe firefly, google flow로 Scene02,04 재제작
   
 https://github.com/user-attachments/assets/97934f87-34e1-4e0b-9b74-7b2d65c73409
@@ -411,6 +414,7 @@ https://github.com/user-attachments/assets/97934f87-34e1-4e0b-9b74-7b2d65c73409
 https://github.com/user-attachments/assets/623efe32-03e7-42e3-a045-e41b52590d8a
 
 - [✔️] 화면 비율 버전 2개 이상 : 16:9 / 9:16 / 1:1
+
 *10MB 제한으로 github 별도로 업로드 하였습니다.
 
 
