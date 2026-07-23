@@ -369,7 +369,7 @@ https://github.com/user-attachments/assets/d11c4ed9-1fbf-4d9d-9741-9dd1fc99ec0a
 - 사용 편집 도구: CapCut
 - 편집 범위: 컷 편집, 오디오 레이어
 ```
- <img width="1080" height="2192" alt="Capcut 작업 사진" src="https://github.com/user-attachments/assets/03eacd65-af9d-4225-b59c-50809eacd680" />
+ <img width="108" height="220" alt="Capcut 작업 사진" src="https://github.com/user-attachments/assets/03eacd65-af9d-4225-b59c-50809eacd680" />
 
 ---
 
