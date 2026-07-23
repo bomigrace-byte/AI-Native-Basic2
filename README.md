@@ -174,75 +174,6 @@ https://github.com/user-attachments/assets/e7f4f123-824a-447c-83d6-35d276fd2306
    - 편집 : Capcut - 영상에 오디오 레이어 배치
 
 - 입력 프롬프트(원문):
-Close-up of two hands gently holding a smartphone,
-phone screen facing LEFT side of frame, hands angled toward left,
-SEREN meditation app displayed on screen,
-
-★ app UI background shows a serene nature scene inside the screen,
-★ misty forest with tall pine trees reflected on still water,
-★ calm lake surface with gentle ripples surrounding the breathing circle,
-★ trees and water reflection visible around the glowing circle,
-★ soft fog and mist between the trees on screen background,
-
-app UI featuring deep teal and sage green tones,
-soft glowing breathing circle in the center of screen,
-glowing white-teal breathing circle with "Breathe In" text and countdown timer,
-gentle gradient from deep ocean teal to soft forest sage,
-nature scene of still water and misty pine forest as app background,
-bottom navigation bar with Sleep, Focus, Breathe icons,
-SEREN logo and tagline visible at top of screen,
-
-★ screen brightness is ENHANCED and MORE LUMINOUS than ambient light,
-★ phone screen emits a visible soft teal-green glow onto hands,
-★ teal-green screen light softly reflects and spills onto fingers and palms,
-★ subtle teal light cast visible on skin texture of hands,
-★ screen is the brightest element in the scene,
-
-soft teal-green light from screen illuminating hands clearly,
-hands are well-lit by the phone screen glow,
-background is softly blurred dark room,
-warm dim candlelight in background,
-cinematic photography style,
-shallow depth of field,
-calm, healing, grounded atmosphere,
-no purple, no lavender, no bright neon colors,
-35mm film grain, gentle vignette,
-natural and organic color palette,
-screen brightness is the main light source,
-crisp UI details visible on screen,
-
-★ cinematic widescreen format 16:9 aspect ratio,
-★ horizontal composition optimized for 16:9 frame,
-★ letterbox cinematic framing
-
-- 출력 결과 요약: "눈을 감은 채 햇살을 온몸으로 받아들이는 미소, 초록빛 보케와 황금빛 빛 입자 속에서 피어나는 평온한 해방감"
-
-- 결과 파일명/링크:
-	- Scene03_keyvisual.png
-	- Scene03(Hailuo)_motion.mp4
-	- Scene03_narration(Eleven Labs).mp3
-	- Scene03,04_bgm-Piano(Suno).mp3
-	- Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3
-	- Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
-```
-https://github.com/user-attachments/assets/6b1ba601-c3d3-4c32-bae1-02154160724a
-
-```
-## 씬 [4]
-- 씬 길이(초): 2
-
-- 목표 메시지: SEREN 앱 인지 + 접속 유도
-
-- 화면 구성: 중앙에 SEREN 로고 / 로고 주변 신비로운 Circle / 로고 아래 슬로건 텍스트 등장
-
-- 내레이션/카피: 없음 (여운을 위한 침묵) / ① SEREN (브랜드명) / ② "Breathe in. Come back to yourself." (슬로건) / ③ "잠깐, 숨 한번 고르고 가요. →" (CTA)
-
-- 사용 도구 및 목적:
-   - 이미지 생성 : Gemini (키 비주얼 생성)
-   - 비디오 생성 : Google Flow (이미지를 짧은 영상으로 변환)
-   - 편집 : Capcut - 영상에 오디오 레이어 배치
-
-- 입력 프롬프트(원문):
 A delicate and soft-featured Korean woman in her mid 20s,
 slender fine facial features, soft jawline, gentle face,
 porcelain-like smooth skin with natural warmth,
@@ -287,6 +218,101 @@ ultra realistic, 8K,
 ★ letterbox cinematic framing,
 ★ subject positioned slightly left of center,
 ★ bokeh background fills wide horizontal frame naturally
+
+- 출력 결과 요약: "눈을 감은 채 햇살을 온몸으로 받아들이는 미소, 초록빛 보케와 황금빛 빛 입자 속에서 피어나는 평온한 해방감"
+
+- 결과 파일명/링크:
+	- Scene03_keyvisual.png
+	- Scene03(Hailuo)_motion.mp4
+	- Scene03_narration(Eleven Labs).mp3
+	- Scene03,04_bgm-Piano(Suno).mp3
+	- Scene02,03,04_soundeffect-birdchipping(Pixabay).mp3
+	- Scene02,03,04_soundeffect-soft wind(Pixabay).mp3
+```
+https://github.com/user-attachments/assets/6b1ba601-c3d3-4c32-bae1-02154160724a
+
+```
+## 씬 [4]
+- 씬 길이(초): 2
+
+- 목표 메시지: SEREN 앱 인지 + 접속 유도
+
+- 화면 구성: 중앙에 SEREN 로고 / 로고 주변 신비로운 Circle / 로고 아래 슬로건 텍스트 등장
+
+- 내레이션/카피: 없음 (여운을 위한 침묵) / ① SEREN (브랜드명) / ② "Breathe in. Come back to yourself." (슬로건) / ③ "잠깐, 숨 한번 고르고 가요. →" (CTA)
+
+- 사용 도구 및 목적:
+   - 이미지 생성 : Gemini (키 비주얼 생성)
+   - 비디오 생성 : Google Flow (이미지를 짧은 영상으로 변환)
+   - 편집 : Capcut - 영상에 오디오 레이어 배치
+
+- 입력 프롬프트(원문):
+A minimalist dark screen with a soft fade-out glow effect,
+as if a phone screen is gently turning off.
+
+Deep teal to deep navy gradient background,
+rich deep teal (#1B4A4A) blending into dark navy (#0D1B2A),
+subtle sage green undertones woven into the darkness,
+soft teal light bloom dissolving from center outward,
+teal and sage green ambient glow radiating from behind the logo.
+
+NO gold bokeh, NO orange bokeh, NO warm-toned light orbs anywhere,
+NO amber particles, NO golden circles in background,
+background bokeh strictly in deep teal and sage green only,
+all particle effects and light orbs must be cool-toned teal or sage green.
+
+In the middle, the word "SEREN" appears in elegant luxury serif font,
+wide letter-spacing, generous tracking between each letter,
+pure soft teal-white color, no gold border, no outline,
+letters subtly illuminated with deep teal inner light,
+as if emerging from teal darkness like a breath,
+soft glowing aura in deep teal and sage green around the letterforms,
+refined, editorial, high-end typographic presence.
+
+Behind the "SEREN" logo, a soft circular halo ring glowing in deep teal,
+subtle luminous ring orbiting the logo like a breath cycle,
+thin ethereal circle made of teal light, not solid, semi-transparent,
+soft diffused glow ring, edges dissolving into background,
+like a ripple of calm energy radiating outward from the center,
+inner glow brighter at center, fading softly toward the ring edges,
+ring color strictly deep teal (#1B6B6B) and sage green (#7A9E7E),
+no gold, no warm tones in the ring,
+the halo feels like inhaling — expansive, gentle, meditative.
+
+Below the logo, a delicate italic tagline:
+"Breathe in. Come back to yourself."
+in soft sage green tinted white, delicate and airy,
+wide letter-spacing, lightweight and breathable.
+
+At the bottom center, a soft rounded CTA button:
+"잠깐, 숨 한번 고르고 가요 →"
+button border in soft teal glow,
+CTA button text in cool teal-white (#D6EFEF),
+slightly teal-tinted white, no warmth, no gold tone,
+crisp and clean, cool-toned sage white,
+button has subtle teal luminescence.
+
+Background has deep teal vignette edges fading to black,
+faint sage green mist floating softly in background,
+subtle teal bokeh particles drifting gently,
+all light effects strictly cool-toned, no warm colors.
+
+Color palette strictly:
+PRIMARY - Deep Teal (#1B4A4A, #0D3333),
+SECONDARY - Sage Green (#7A9E7E, #8FAF8F),
+BACKGROUND - Deep navy-teal (#0A1628) to black,
+NO warm gold, NO orange, NO amber, NO yellow tones anywhere,
+NO bright white, NO cool grey, NO purple.
+
+Overall mood: cinematic fade, meditation ending,
+deep teal serenity, eyes opening after stillness.
+Luxurious, minimal, breathable, ultra-premium wellness brand.
+Film grain texture, soft teal vignette edges.
+No people, no clutter. Pure stillness.
+
+Aspect ratio 16:9, ultra HD,
+cinematic letterbox format,
+premium meditation app end screen.
 
 - 출력 결과 요약: "깊은 심해빛 어둠 속에서 은은하게 빛나는 원형 오라와 함께, 'SEREN'이라는 이름이 조용히 당신을 자신에게로 되돌려 보내는 초대"
 
@@ -387,7 +413,7 @@ https://github.com/user-attachments/assets/d11c4ed9-1fbf-4d9d-9741-9dd1fc99ec0a
 ```
 - 파일명: SEREN.mp4
 - 길이: 10초
-- 해상도: 720p (권장 720p 이상)
+- 해상도: 720p / 1914x1080 (권장 720p 이상)
 	*해상도,색감 불일치 시
 		1. 프롬프트에 색감, 해상도 명시
 		2. 같은 생성모델 이용
