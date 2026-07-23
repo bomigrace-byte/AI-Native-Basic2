@@ -350,7 +350,7 @@ https://github.com/user-attachments/assets/d11c4ed9-1fbf-4d9d-9741-9dd1fc99ec0a
 	*씬축소를 위한 유지씬 : 각 씬의 키비주얼 및 핵심 메시지 선정하여 유지
   
 - [✔️] 정지 이미지 + 짧은 모션(패닝/줌/루프) 중심 구성
-  
+
 	*T2I와 I2V의 차이점 및 선택 기준
   
 	-Text to Image : 텍스트 설명으로 원하는 이미지를 생성
@@ -369,6 +369,7 @@ https://github.com/user-attachments/assets/d11c4ed9-1fbf-4d9d-9741-9dd1fc99ec0a
 - 사용 편집 도구: CapCut
 - 편집 범위: 컷 편집, 오디오 레이어
 ```
+ <img width="1080" height="2192" alt="Capcut 작업 사진" src="https://github.com/user-attachments/assets/03eacd65-af9d-4225-b59c-50809eacd680" />
 
 ---
 
